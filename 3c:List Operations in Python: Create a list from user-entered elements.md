@@ -1,4 +1,4 @@
-# Ex 2c:List Operations in Python: Create a list from user-entered elements
+# Ex 3c:List Operations in Python: Create a list from user-entered elements
 
 ## Aim
 To write a Python program that reads the size of a list and then accepts elements from the user using eval() to create a list.
