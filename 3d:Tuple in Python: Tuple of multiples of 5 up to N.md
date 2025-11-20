@@ -1,4 +1,4 @@
-# Ex 2d:Tuple in Python: Tuple of multiples of 5 up to N
+# Ex 3d:Tuple in Python: Tuple of multiples of 5 up to N
 
 ## Aim
 To write a Python program that creates a tuple containing multiples of 5 up to a user-given number N.
