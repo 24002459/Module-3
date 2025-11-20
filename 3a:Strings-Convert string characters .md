@@ -1,5 +1,5 @@
 # Module-3
-# Ex 2a:Strings-Convert string characters (upper/lower/number)
+# Ex 3a:Strings-Convert string characters (upper/lower/number)
 
 ## Aim
 To write a Python function that converts uppercase letters to lowercase, lowercase letters to uppercase, and replaces all digits with * using if–elif statements.
