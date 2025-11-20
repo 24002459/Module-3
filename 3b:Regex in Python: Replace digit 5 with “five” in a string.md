@@ -1,4 +1,4 @@
-# Ex 2b:Regex in Python: Replace digit 5 with “five” in a string
+# Ex 3b:Regex in Python: Replace digit 5 with “five” in a string
 
 ## Aim
 To write a Python program that replaces all occurrences of the digit 5 with the word "five" in a given string.
