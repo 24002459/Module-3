@@ -1,4 +1,4 @@
-# Ex 2e:List-Create a list from user input
+# Ex 3e:List-Create a list from user input
 
 ## Aim
 To write a Python program that reads the size of a list and then accepts elements from the user to create the list.
